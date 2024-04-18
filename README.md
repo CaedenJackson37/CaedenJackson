@@ -1,8 +1,8 @@
 #<h1>Hi, I'm Caeden! <br/><a href="https://github.com/CaedenJackson37/CaedenJackson">Programmer</a>, <a href="https://www.linkedin.com/in/caeden-jackson-9bab62262?trk=contact-inf0/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Computer Science Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Subnetting Practice in Cisco Packet Tracer</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
