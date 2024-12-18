@@ -1,4 +1,4 @@
-#<h1>Hi, I'm Caeden! <br/><a href="https://github.com/CaedenJackson37/CaedenJackson"></a>, <a href="https://www.linkedin.com/in/caeden-jackson-9bab62262?trk=contact-inf0/">Cybersecurity Professional</a></h1>
+#<h1>Hi, I'm Caeden! <br/><a href="https://github.com/CaedenJackson37/CaedenJackson"></a> <a href="https://www.linkedin.com/in/caeden-jackson-9bab62262?trk=contact-inf0/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
