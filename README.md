@@ -8,7 +8,10 @@
   - [Subnet Boundaries Testing](https://github.com/CaedenJackson37/Subnet-Boundary-Testing) </b></i>
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,pycharm,debian,vscode)](https://skillicons.dev)
+[![My Programming Skills](https://skillicons.dev/icons?i=py,mysql,pycharm,debian,vscode)](https://skillicons.dev)
+
+<h2> My Security Skills <h2>
+<h2> Wireshark Kali <h2>
 
 
 <h2> 🤳 Connect with me:</h2>
