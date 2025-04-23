@@ -8,7 +8,7 @@
   - [Subnet Boundaries Testing](https://github.com/CaedenJackson37/Subnet-Boundary-Testing) </b></i>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sql,css,wasm)](https://skillicons.dev)
 
 
 <h2> 🤳 Connect with me:</h2>
