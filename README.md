@@ -8,6 +8,10 @@
   - [Subnet Boundaries Testing](https://github.com/CaedenJackson37/Subnet-Boundary-Testing) </b></i>
 
 
+<h2> Skills ⌨️ <h2>
+[python]
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
