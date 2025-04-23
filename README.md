@@ -9,7 +9,7 @@
 
 
 <h2> Skills ⌨️ <h2>
-[python]
+[py]
 
 
 
