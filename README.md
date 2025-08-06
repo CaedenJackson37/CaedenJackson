@@ -14,8 +14,8 @@
 [![My Skills](https://skillicons.dev/icons?i=py,pycharm,vscode,mysql)](https://skillicons.dev)
 
 <h2> Degrees <h2>
-<h2> Associates in Cybersecurity <h2>
-<h2> Bachelors in Cybersecurity and Global Policy (In Progress) </h2>
+<h1> Associates in Cybersecurity </h1>
+<h1> Bachelor's in Cybersecurity and Global Policy (In Progress) </h1>
 
 
 <h2> 🤳 Connect with me:</h2>
